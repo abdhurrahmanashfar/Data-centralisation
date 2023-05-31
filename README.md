@@ -16,4 +16,5 @@ Amongst others, the data sources are from:
 4. CSV format in an S3 bucket on AWS.
 5. Amazon Relational Database Service (RDS)
 
-
+## 3 - Create the database schema
+Casted the column data type to be the desired configuration. Created new column to have categorical data based on input from another table. Configured the primary and foreign keys on all tables to permit further analysis and database query.
